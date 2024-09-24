@@ -1,3 +1,14 @@
 body{background-color: black;
-color: brown;
+color: rgb(139, 0, 0);
+}
+header{
+    border-bottom: solid 2px rgb(211, 77, 0);
+    padding: 20px;
+    font-size: 35px;
+    color: rgb(255, 0, 0);
+}
+.chamada{
+    background-color: rgb(228, 132, 43);
+    padding-bottom: 80px;
+    padding-top: 80px;
 }
