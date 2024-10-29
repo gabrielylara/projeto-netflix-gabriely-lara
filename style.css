@@ -11,4 +11,17 @@ header{
     background-color: rgb(228, 132, 43);
     padding-bottom: 80px;
     padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
+    h1{font-size: 40px;}
+    p{font-size: 25px;}
+
+.categoria-videos{
+    display: flex;
+    overflow: auto;
+    gap: 10px;
 }
